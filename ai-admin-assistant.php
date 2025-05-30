@@ -4,7 +4,7 @@
  * Plugin URI: 
  * Description: Integrates Claude.ai into the WordPress Admin Backend
  * Version: 1.0.0
- * Author: proteczone
+ * Author: OpenZenta
  * License: GPL v2 or later
  * Requires at least: 6.7
  * Requires PHP: 7.4
